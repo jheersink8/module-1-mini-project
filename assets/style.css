@@ -1,0 +1,64 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #375f53;
+    text-align: right;
+    border-bottom: 7px solid #e5cfc3;
+    padding: 1%;
+    /* this code block will fix the header in place and position it in an "aesthetically pleasing" position */
+    position: fixed;
+    top: 0;
+    right: -20px;
+    width: 100%;
+}
+
+li {
+    position: relative;
+    display: inline;
+    color: white;
+    padding: 1%;
+}
+
+/* Positioned main 50px down from the top so that it doesn't "hide" behind the fixed header. */
+main{
+    position: relative;
+    top: 50px;
+    z-index: -1;
+    margin-bottom: 50px;
+}
+
+#text-boxes {
+    display: inline-block;
+    border-radius: 25px;
+    border: 4px solid #d5b09e;
+    padding: 4px 67px 10px 67px;
+    margin: 1%;
+}
+
+section {
+    background-color: #e5cfc3;
+    border-top: 2px solid #dfc0ae;
+}
+
+button {
+    background-color: #4f4746;
+    color: white;
+    padding: 3% 15% 3% 15%;
+}
+
+footer {
+    background-color: #375f53;
+    color: white;
+    text-align: center;
+    border-bottom: 12px solid #45514c;
+    padding: 20px;
+
+}
