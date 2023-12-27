@@ -1,3 +1,65 @@
+# Module 01 Mini-Project
+
+## Description
+
+The purpose of this project was to demonstrate my ability to use basic HTML and CSS functionality to create a basic webpage. 
+
+**What was your motivation?** My main motivation for building this webpage was to get ancillary practice in basic HTML and CSS use cases. 
+**Why did you build this project?** Although this was not a "mandatory" project, I wanted to expand on my knowledge and understanding of HTML and CSS. 
+**What problem does it solve?** This webpage itself, does not solve any problems. However, my personal exposure to HTML and CSS is non-existent. That said, the main problem this page solves is granting me more and more exposure to HTML and CSS concepts and practices. 
+**What did you learn?** One week before I built this webpage, I had no exposure to HTML or CSS, so I learned a great amount from this activity. Some of the big things I learned include: 
+
+**HTML**
+- Organizing content for SEO and accessibility 
+- Using the href attribute to create usable links
+- Create header, main, and footer 
+- Add images to the HTML using the href attribute 
+- Add alt text to images
+- Add ID attributes to HTML elements
+
+**CSS**
+- Establishing a font family for the entire page
+- Use of aesthetic properties such as color and background color
+- Apply CSS properties to multiple selectors 
+- Use several CSS properties such as position, margin, and padding 
+
+## Usage
+While there's not much usage for end user application with this webpage, the exercise’s main priority was to help establish basic CSS and HTML concepts in novice developers. The image below demonstrates the end result of the aesthetic goals of this developer. 
+
+![Image of final product](assets/final-product.png/)
+
+## Credits
+The original goals and deliverables were presented by Denver University in the Bootcamp course ID DU-VIRT-FSF-PT-12-2023-U-LOLC-MWTH under Module 1 Activity. All code was generated and submitted by Jordan R. Heersink. 
+
+MIT License
+
+Copyright (c) 2023 Jordan Heersink
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+## **This is the end of original content from Jordan Heersink. The original readme provided by Denver University is below. **
+
+
+
+
+
+
 # Module 01 Mini-Project: Landing Page
 
 In this mini-project, you will build a landing page using HTML and CSS. While you will be responsible for your own landing page, you will work in a group to brainstorm and share ideas.
